@@ -1,0 +1,5 @@
+Words translated from English to Danish
+able = dygtig
+pig = svin
+bird = fugl
+mouse = mus
